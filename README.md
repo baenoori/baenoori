@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Baenoori&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Baenoori&fontSize=60" />
 
 ## 인공지능 개발자 배누리입니다. 
 
