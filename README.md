@@ -4,7 +4,7 @@
 
 🔍 Skills
 
-<img src="https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=python&logoColor=#000000" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=0000000" />
+<img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=#000000" />
+<img src="https://img.shields.io/badge/TensorFlow-20232a.svg?style=for-the-badge&logo=tensorflow&logoColor=0000000" />
 
 
