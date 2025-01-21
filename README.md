@@ -3,5 +3,6 @@
 ## 인공지능 개발자 배누리입니다. 
 
 🔍 Skills
-<img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
+
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=#000000" />
 
